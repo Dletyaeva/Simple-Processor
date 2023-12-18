@@ -1,0 +1,26 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/SimpleProcessor.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/SimpleComputer.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/RegisterFile8by16Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Reg16Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Reg1Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Mux8Input16Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Mux4Input16Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Mux4Input3Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Mux2Input16Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/MemoryIOInterface.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/MainMemory.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Immediate.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Decoder3Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/ControlUnit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/ALU.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Adder16Bit.vhd}
+vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/Adder1Bit.vhd}
+
+do "C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab2/student_files/task.do"

@@ -1,0 +1,291 @@
+# Reading C:/intelFPGA_lite/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# do SimpleComputer_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleProcessor.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:27 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleProcessor.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity SimpleProcessor
+# -- Compiling architecture implementation of SimpleProcessor
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleComputer.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleComputer.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity SimpleComputer
+# -- Compiling architecture implementation of SimpleComputer
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/RegisterFile8by16Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/RegisterFile8by16Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity RegisterFile8by16Bit
+# -- Compiling architecture implementation of RegisterFile8by16Bit
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg16Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg16Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg16Bit
+# -- Compiling architecture implementation of Reg16Bit
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg1Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg1Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Reg1Bit
+# -- Compiling architecture implementation of Reg1Bit
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux8Input16Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux8Input16Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux8Input16Bit
+# -- Compiling architecture implementation of mux8Input16Bit
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input16Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input16Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4Input16Bit
+# -- Compiling architecture implementation of mux4Input16Bit
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input3Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input3Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux4Input3Bit
+# -- Compiling architecture implementation of mux4Input3Bit
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux2Input16Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux2Input16Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Mux2Input16Bit
+# -- Compiling architecture implementation of mux2Input16Bit
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MemoryIOInterface.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MemoryIOInterface.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MemoryIOInterface
+# -- Compiling architecture implementation of MemoryIOInterface
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MainMemory.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:28 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MainMemory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MainMemory
+# -- Compiling architecture implementation of MainMemory
+# End time: 20:22:28 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Immediate.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:29 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Immediate.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Immediate
+# -- Compiling architecture implementation of Immediate
+# End time: 20:22:29 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Decoder3Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:29 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Decoder3Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Decoder3Bit
+# -- Compiling architecture implementation of Decoder3Bit
+# End time: 20:22:29 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ControlUnit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:29 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ControlUnit
+# -- Compiling architecture implementation of ControlUnit
+# End time: 20:22:29 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ALU.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:29 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ALU
+# -- Compiling architecture implementation of ALU
+# End time: 20:22:29 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder16Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:29 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder16Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder16Bit
+# -- Compiling architecture implementation of Adder16Bit
+# End time: 20:22:29 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vcom -2008 -work work {C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder1Bit.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 20:22:29 on Dec 03,2023
+# vcom -reportprogress 300 -2008 -work work C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder1Bit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Adder1Bit
+# -- Compiling architecture implementation of Adder1Bit
+# End time: 20:22:29 on Dec 03,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# do "C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/task.do"
+# vsim SimpleComputer
+# vsim SimpleComputer 
+# Start time: 20:22:29 on Dec 03,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.simplecomputer(implementation)
+# Loading work.simpleprocessor(implementation)
+# Loading work.controlunit(implementation)
+# Loading work.registerfile8by16bit(implementation)
+# Loading work.decoder3bit(implementation)
+# Loading work.reg16bit(implementation)
+# Loading work.reg1bit(implementation)
+# Loading work.mux8input16bit(implementation)
+# Loading work.alu(implementation)
+# Loading work.mux2input16bit(implementation)
+# Loading work.adder16bit(implementation)
+# Loading work.adder1bit(implementation)
+# Loading work.mux4input16bit(implementation)
+# Loading work.immediate(implementation)
+# Loading work.mux4input3bit(implementation)
+# Loading work.memoryiointerface(implementation)
+# Loading work.mainmemory(implementation)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading altera_mf.altera_common_conversion(body)
+# Loading altera_mf.altera_device_families(body)
+# Loading altera_mf.altsyncram(translated)
+# ** Warning: Design size of 15226 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# 
+# display hexadecimal values
+# radix -hexadecimal
+# hexadecimal
+# 
+# view wave
+# .main_pane.wave.interior.cs.body.pw.wf
+# 
+# add wave clock
+# 
+# add wave debug_PC
+# add wave P/reset
+# add wave debug_IR
+# add wave debug_state
+# add wave debug_r1
+# add wave debug_r2
+# add wave debug_r3
+# add wave debug_r4
+# add wave debug_r5
+# add wave debug_r6
+# add wave debug_r7
+# add wave debug_RA
+# add wave debug_RB
+# add wave debug_Extension
+# add wave debug_RZ
+# add wave debug_RY
+# 
+# add other signals
+# add wave SW
+# add wave KEY
+# add wave HEX_DP
+# add wave LEDR
+# 
+# add signals inside simpleProcessor
+# add wave P/MEM_read
+# add wave P/MEM_write
+# add wave P/MEM_address
+# add wave P/Data_to_Mem
+# 
+# force clock 1 0, 0 1000 -repeat 2000
+# push KEY0 between 0 and 100 to reset the computer
+# force KEY(1) 1 0, 1 50000
+# force KEY(0) 0 0, 1 100
+#clear all switches at time 0 and set every other switch after 100000
+# force SW 0000000000 0
+# force SW(8) 0 0, 1 100000
+# force SW(6) 0 0, 1 100000
+# force SW(4) 0 0, 1 100000
+# force SW(2) 0 0, 1 100000
+# force SW(0) 0 0, 1 100000
+# 
+# run 250000
+# ** Error: Error: BYPASS value for CLOCK_ENABLE_INPUT_A is not supported in Max 10 device family
+#    Time: 0 ps  Iteration: 0  Instance: /simplecomputer/MemIO/Memory/altsyncram_component
+# ** Error: Error: BYPASS value for CLOCK_ENABLE_OUTPUT_A is not supported in Max 10 device family
+#    Time: 0 ps  Iteration: 0  Instance: /simplecomputer/MemIO/Memory/altsyncram_component
+# 
+# 
+# End time: 20:32:58 on Dec 03,2023, Elapsed time: 0:10:29
+# Errors: 2, Warnings: 1

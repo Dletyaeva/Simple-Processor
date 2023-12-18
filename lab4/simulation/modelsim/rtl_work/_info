@@ -1,0 +1,673 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/simulation/modelsim
+Eadder16bit
+Z1 w1602721490
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder16Bit.vhd
+Z5 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder16Bit.vhd
+l0
+L21
+VJDUSWBVR;_zbzV5eOon6Z3
+!s100 MlZzB0SU2D^65>Q_fO1cF3
+Z6 OV;C;10.5b;63
+33
+Z7 !s110 1701656549
+!i10b 1
+Z8 !s108 1701656549.000000
+Z9 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder16Bit.vhd|
+Z10 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder16Bit.vhd|
+!i113 1
+Z11 o-2008 -work work
+Z12 tExplicit 1 CvgOpt 0
+Aimplementation
+R2
+R3
+DEx4 work 10 adder16bit 0 22 JDUSWBVR;_zbzV5eOon6Z3
+l38
+L30
+VaSXnZea>2zaQTj0<[LY:I2
+!s100 Eah6KD^>[aI<^MP<mh?A?1
+R6
+33
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eadder1bit
+Z13 w1602721395
+R2
+R3
+R0
+Z14 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder1Bit.vhd
+Z15 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder1Bit.vhd
+l0
+L21
+VlfE<NifUGOMo_`D6gW_Ho3
+!s100 [nz>`ECNQ_h[Eo5K]>b;X0
+R6
+33
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder1Bit.vhd|
+Z17 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Adder1Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 9 adder1bit 0 22 lfE<NifUGOMo_`D6gW_Ho3
+l29
+L28
+VgaSB01W6=7:7DoZBb@?mh3
+!s100 ZfGzQ]4V24J8d2Oh<?D=Z3
+R6
+33
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ealu
+Z18 w1602721531
+R2
+R3
+R0
+Z19 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ALU.vhd
+Z20 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ALU.vhd
+l0
+L21
+VHgGhU[zkKcVKPN<:bM6fP0
+!s100 Z^<A>iozZhX>QMBccL:OQ3
+R6
+33
+R7
+!i10b 1
+R8
+Z21 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ALU.vhd|
+Z22 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ALU.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 3 alu 0 22 HgGhU[zkKcVKPN<:bM6fP0
+l57
+L32
+V2KDZ1^Jd?NN;IZdHe:k_M2
+!s100 NlK1N^3^5UNORb2mMX^9H3
+R6
+33
+R7
+!i10b 1
+R8
+R21
+R22
+!i113 1
+R11
+R12
+Econtrolunit
+Z23 w1701655754
+R2
+R3
+R0
+Z24 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ControlUnit.vhd
+Z25 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ControlUnit.vhd
+l0
+L21
+V5::W`31ElNL_:1oRYd>P^1
+!s100 YK[4NML3_1k0m=f^NbREV2
+R6
+33
+R7
+!i10b 1
+R8
+Z26 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ControlUnit.vhd|
+Z27 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/ControlUnit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 11 controlunit 0 22 5::W`31ElNL_:1oRYd>P^1
+l58
+L51
+Ve1:E_c0igYW;>6gdNXgF63
+!s100 TCHK3lF2@Az_>a^:XloHS1
+R6
+33
+R7
+!i10b 1
+R8
+R26
+R27
+!i113 1
+R11
+R12
+Edecoder3bit
+Z28 w1602721642
+R2
+R3
+R0
+Z29 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Decoder3Bit.vhd
+Z30 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Decoder3Bit.vhd
+l0
+L21
+VTfUE::adnmOH@7@oBO^Aa0
+!s100 2kPGWcZ6O>o4<I:68A9QJ1
+R6
+33
+R7
+!i10b 1
+R8
+Z31 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Decoder3Bit.vhd|
+Z32 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Decoder3Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 11 decoder3bit 0 22 TfUE::adnmOH@7@oBO^Aa0
+l28
+L27
+VX=>DfREK@V4bizEX2?M:>2
+!s100 9IOjHj@40GRzl:MgW6O`P0
+R6
+33
+R7
+!i10b 1
+R8
+R31
+R32
+!i113 1
+R11
+R12
+Eimmediate
+Z33 w1602721693
+R2
+R3
+R0
+Z34 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Immediate.vhd
+Z35 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Immediate.vhd
+l0
+L21
+VaXVfT>QF<=ZFEkH3gS]>T3
+!s100 f77U2EnT<kf94hLhLSUYf0
+R6
+33
+R7
+!i10b 1
+R8
+Z36 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Immediate.vhd|
+Z37 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Immediate.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 9 immediate 0 22 aXVfT>QF<=ZFEkH3gS]>T3
+l35
+L31
+VE?LijEMP[ZzN:G<R<LQD92
+!s100 ;jL:FhhBK6D3dl1PcAHSH0
+R6
+33
+R7
+!i10b 1
+R8
+R36
+R37
+!i113 1
+R11
+R12
+Emainmemory
+Z38 w1604412443
+R2
+R3
+R0
+Z39 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MainMemory.vhd
+Z40 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MainMemory.vhd
+l0
+L24
+VSemADXORlk36[A;V`S6_Q1
+!s100 L[Y4>:[HYfHb6obQOMjA92
+R6
+33
+Z41 !s110 1701656548
+!i10b 1
+Z42 !s108 1701656548.000000
+Z43 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MainMemory.vhd|
+Z44 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MainMemory.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 10 mainmemory 0 22 SemADXORlk36[A;V`S6_Q1
+l62
+L36
+VW>:o43H>3@GM410TE3TW[1
+!s100 @P^X>GioiNLEPe34MDl_P2
+R6
+33
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R11
+R12
+Ememoryiointerface
+Z45 w1602791707
+R2
+R3
+R0
+Z46 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MemoryIOInterface.vhd
+Z47 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MemoryIOInterface.vhd
+l0
+L21
+Vh8Z9fHfcM^][a;3NZGLjH3
+!s100 BZ2YaaN=Y8DdoTMdDKA=e1
+R6
+33
+R41
+!i10b 1
+R42
+Z48 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MemoryIOInterface.vhd|
+Z49 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/MemoryIOInterface.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 17 memoryiointerface 0 22 h8Z9fHfcM^][a;3NZGLjH3
+l69
+L38
+VYTUnj3K8WL1;=JzGa@V1L3
+!s100 Kb25j>c@hGZ74]IQQWZJA3
+R6
+33
+R41
+!i10b 1
+R42
+R48
+R49
+!i113 1
+R11
+R12
+Emux2input16bit
+Z50 w1602722421
+R2
+R3
+R0
+Z51 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux2Input16Bit.vhd
+Z52 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux2Input16Bit.vhd
+l0
+L21
+Vh?o6TiDF75nCMUC?aMC[40
+!s100 ;6g[fGP2no@0GldbPY1F_0
+R6
+33
+R41
+!i10b 1
+R42
+Z53 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux2Input16Bit.vhd|
+Z54 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux2Input16Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 14 mux2input16bit 0 22 h?o6TiDF75nCMUC?aMC[40
+l29
+L28
+VNloHnkRVLC7@>HdAeHSC>1
+!s100 `2Sz?0eJX`3M@JiRNVR:z3
+R6
+33
+R41
+!i10b 1
+R42
+R53
+R54
+!i113 1
+R11
+R12
+Emux4input16bit
+Z55 w1602722461
+R2
+R3
+R0
+Z56 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input16Bit.vhd
+Z57 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input16Bit.vhd
+l0
+L21
+VgMc9a=l3VThDCH8QfUJX93
+!s100 i5R8d7eTUAJ?hRBJVRD=d1
+R6
+33
+R41
+!i10b 1
+R42
+Z58 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input16Bit.vhd|
+Z59 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input16Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 14 mux4input16bit 0 22 gMc9a=l3VThDCH8QfUJX93
+l29
+L28
+V>?>7GF2o5DPllIc<HBS?f2
+!s100 c=lXEZo<nUU:0:_N1WKck3
+R6
+33
+R41
+!i10b 1
+R42
+R58
+R59
+!i113 1
+R11
+R12
+Emux4input3bit
+Z60 w1602722440
+R2
+R3
+R0
+Z61 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input3Bit.vhd
+Z62 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input3Bit.vhd
+l0
+L21
+VASIO4z=^i5D84VHIFnofG2
+!s100 TEXbE=khbIG2D^cj<;<aM3
+R6
+33
+R41
+!i10b 1
+R42
+Z63 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input3Bit.vhd|
+Z64 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux4Input3Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 13 mux4input3bit 0 22 ASIO4z=^i5D84VHIFnofG2
+l29
+L28
+VaM<U7kzhb9=Wh6IjOCn8@3
+!s100 z1;m5FEJ5`d`?bZ>G9`9]0
+R6
+33
+R41
+!i10b 1
+R42
+R63
+R64
+!i113 1
+R11
+R12
+Emux8input16bit
+Z65 w1602722479
+R2
+R3
+R0
+Z66 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux8Input16Bit.vhd
+Z67 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux8Input16Bit.vhd
+l0
+L21
+V;Q=[KkK:L4liYC_d21@8<2
+!s100 U=Fgkg59iR1SE=;dcGNJS2
+R6
+33
+R41
+!i10b 1
+R42
+Z68 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux8Input16Bit.vhd|
+Z69 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Mux8Input16Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 14 mux8input16bit 0 22 ;Q=[KkK:L4liYC_d21@8<2
+l30
+L29
+VzaLD18<XfVzCMZANm@l7l0
+!s100 W=b?UejZlgd9EOjJklePz1
+R6
+33
+R41
+!i10b 1
+R42
+R68
+R69
+!i113 1
+R11
+R12
+Ereg16bit
+Z70 w1602722540
+R2
+R3
+R0
+Z71 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg16Bit.vhd
+Z72 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg16Bit.vhd
+l0
+L21
+VdF1_bf6YA[?Tld12X09f:1
+!s100 `N_gFVk]Qeoc<<^[o3DS[3
+R6
+33
+R41
+!i10b 1
+R42
+Z73 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg16Bit.vhd|
+Z74 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg16Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 8 reg16bit 0 22 dF1_bf6YA[?Tld12X09f:1
+l41
+L31
+VNKRn3J4e2[k99UNDV_cT70
+!s100 VjCK1[SgdY]AZg5aigfmJ1
+R6
+33
+R41
+!i10b 1
+R42
+R73
+R74
+!i113 1
+R11
+R12
+Ereg1bit
+Z75 w1602722512
+R2
+R3
+R0
+Z76 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg1Bit.vhd
+Z77 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg1Bit.vhd
+l0
+L21
+V[fW2Amco5CajhFL3M`Q1V2
+!s100 KWkWE08lA@LTH_Yfo6nmd3
+R6
+33
+R41
+!i10b 1
+R42
+Z78 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg1Bit.vhd|
+Z79 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/Reg1Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 7 reg1bit 0 22 [fW2Amco5CajhFL3M`Q1V2
+l32
+L31
+VL<mkHb2aYJb;XmaJ:mnjG0
+!s100 Ma5>z?RmOSkU3HH>1JGCk3
+R6
+33
+R41
+!i10b 1
+R42
+R78
+R79
+!i113 1
+R11
+R12
+Eregisterfile8by16bit
+Z80 w1602722634
+R2
+R3
+R0
+Z81 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/RegisterFile8by16Bit.vhd
+Z82 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/RegisterFile8by16Bit.vhd
+l0
+L21
+VnFhkLUh6X8Z4gVN5:bVO<2
+!s100 R0?EZl8Rb2b;`G8^AKHBM2
+R6
+33
+R41
+!i10b 1
+R42
+Z83 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/RegisterFile8by16Bit.vhd|
+Z84 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/RegisterFile8by16Bit.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 20 registerfile8by16bit 0 22 nFhkLUh6X8Z4gVN5:bVO<2
+l64
+L38
+VIZiimJf`U[j9DzZJCz]W_3
+!s100 R7d`6didzX4Wd5OGkT]Wa1
+R6
+33
+R41
+!i10b 1
+R42
+R83
+R84
+!i113 1
+R11
+R12
+Esimplecomputer
+Z85 w1602796788
+R2
+R3
+R0
+Z86 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleComputer.vhd
+Z87 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleComputer.vhd
+l0
+L21
+VM<?EAbJBM0H>6K=LE:5Z50
+!s100 CzAkJojAEX4SSe7QKgQK52
+R6
+33
+R41
+!i10b 1
+R42
+Z88 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleComputer.vhd|
+Z89 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleComputer.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 14 simplecomputer 0 22 M<?EAbJBM0H>6K=LE:5Z50
+l95
+L47
+ViUSRIk8]7ID[L=T`Za62X2
+!s100 ]K6nInG>XX^Rn=;<ab?nC2
+R6
+33
+R41
+!i10b 1
+R42
+R88
+R89
+!i113 1
+R11
+R12
+Esimpleprocessor
+Z90 w1701171772
+R2
+R3
+R0
+Z91 8C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleProcessor.vhd
+Z92 FC:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleProcessor.vhd
+l0
+L21
+V^XdRSmVi?FY59o=4ClKYG0
+!s100 C=U3fEnf1CKHoeXZTf]5[1
+R6
+33
+R41
+!i10b 1
+Z93 !s108 1701656547.000000
+Z94 !s90 -reportprogress|300|-2008|-work|work|C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleProcessor.vhd|
+Z95 !s107 C:/Users/letya/Documents/Classes/230/projects/groupProject1/lab4/student_files/SimpleProcessor.vhd|
+!i113 1
+R11
+R12
+Aimplementation
+R2
+R3
+DEx4 work 15 simpleprocessor 0 22 ^XdRSmVi?FY59o=4ClKYG0
+l184
+L50
+VL0hkHB?cn<M:FY>OR6O1d3
+!s100 aUFCJ_]E^XmUegI<Y7]PO1
+R6
+33
+R41
+!i10b 1
+R93
+R94
+R95
+!i113 1
+R11
+R12

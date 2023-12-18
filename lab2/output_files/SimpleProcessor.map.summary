@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sun Dec 03 19:38:16 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : SimpleProcessor
+Top-level Entity Name : SimpleComputer
+Family : MAX 10
+Total logic elements : 638
+    Total combinational functions : 465
+    Dedicated logic registers : 275
+Total registers : 275
+Total pins : 258
+Total virtual pins : 0
+Total memory bits : 65,536
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

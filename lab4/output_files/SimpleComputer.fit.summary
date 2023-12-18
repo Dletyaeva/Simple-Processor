@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sun Dec 03 20:16:07 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : SimpleComputer
+Top-level Entity Name : SimpleComputer
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 533 / 49,760 ( 1 % )
+    Total combinational functions : 466 / 49,760 ( < 1 % )
+    Dedicated logic registers : 275 / 49,760 ( < 1 % )
+Total registers : 275
+Total pins : 258 / 360 ( 72 % )
+Total virtual pins : 0
+Total memory bits : 65,536 / 1,677,312 ( 4 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )
